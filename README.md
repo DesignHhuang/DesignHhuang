@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with learning languages
 - 💬 Ask me about front-end technology
 - 📫 How to reach me: QQ as 1219549841 Email as ihuanglimin@qq.com
-- 😄 Pronouns:Sometimes Funny, Sometimes Romantic,Sometimes Bored
+- 😄 Pronouns:Sometimes Funny, Sometimes Romantic, Sometimes Bored
 
 <br/>
 
