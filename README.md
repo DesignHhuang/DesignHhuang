@@ -8,24 +8,18 @@
 <img align="right" alt="GIF" src="https://doc.panjingyi.top/blog/202207031041891.gif?raw=true" width="300"/>
 
 - 🔭 I’m currently working on VyimeSa
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning everything that interests me
+- 👯 I’m looking to collaborate on building an ledger app
+- 🤔 I’m looking for help with learning languages
 - 💬 Ask me about front-end technology
-- 📫 How to reach me: QQ:1219549841 Email:ihuanglimin@qq.com
+- 📫 How to reach me: QQ as 1219549841 Email as ihuanglimin@qq.com
 - 😄 Pronouns:Sometimes Funny, Sometimes Romantic,Sometimes Bored
-
-<img src="https://img.shields.io/badge/-Next-black?style=flat&logo=next.js&logoColor=white"
 
 <br/>
 
 <div align='center'>
-  <img src='https://komarev.com/ghpvc/?username=DesignHhuang&color=brightgreen&style=for-the-badge' />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DesignHhuang&theme=vue&show_icons=true)
 </div>
-
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DesignHhuang&theme=vue&show_icons=true)
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
