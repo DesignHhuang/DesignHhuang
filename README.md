@@ -17,9 +17,10 @@
 
 <br/>
 
-<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<!-- push the content of <build_dir> to a branch
+the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DesignHhuang/DesignHhuang/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DesignHhuang/DesignHhuang/output/github-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/DesignHhuang/DesignHhuang/output/github-snake.svg">
 </picture>
