@@ -1,6 +1,6 @@
 <p align="center">
   <h1 height="200px" align="center">
-    Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, here is huangxiaomin
+    Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=here+is+huangxiaomin)](https://git.io/typing-svg)
   </h1>
    <p align="center">Singer 👨🏻‍🎤 Painter 🎨 Dota2 🎮 & Basketball ⛹🏻 player, Trying to be a full stack engineer 👨‍💻</p>
 </p>
