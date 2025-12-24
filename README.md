@@ -7,9 +7,8 @@
 
 <img align="right" alt="GIF" src="https://doc.panjingyi.top/blog/202207031041891.gif?raw=true" width="300"/>
 
-- 🔭 I’m currently working on VyimeSa
+- 🔭 I’m currently working on Wattsonic
 - 🌱 I’m currently learning everything that interests me
-- 👯 I’m looking to collaborate on building an ledger app
 - 🤔 I’m looking for help with learning languages
 - 💬 Ask me about front-end technology
-- 📫 How to reach me: QQ as 1219549841 Email as ihuanglimin@qq.com
+- 📫 How to reach me: Email as ihuanglimin@qq.com
